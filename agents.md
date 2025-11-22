@@ -172,9 +172,9 @@ pnpm add -D @types/node @types/react
 ### 2. Configure Environment
 Create `.env.local`:
 ```
-UPSTASH_VECTOR_REST_URL=<your-upstash-url>
-UPSTASH_VECTOR_REST_TOKEN=<your-upstash-token>
-GROQ_API_KEY=<your-groq-key>
+UPSTASH_VECTOR_REST_URL==https://amusing-angelfish-41865-us1-vector.upstash.io
+UPSTASH_VECTOR_REST_TOKEN=ABttCVJmNTQ5YzQyODItMDg0Yi00ODI0LWI5ZjAtNzFkYjZmOTI5YjZiMjE1ZTIwNzEwZTQ3NDZlYmZkYzk4MWRhNGJmODczZTE=
+GROQ_API_KEY=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
 ```
 
 ### 3. Implement Vector Client
