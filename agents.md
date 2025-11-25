@@ -125,9 +125,9 @@ mydigitaltwin/
 ## Environment Variables
 
 ```
-UPSTASH_VECTOR_REST_URL=<url>
-UPSTASH_VECTOR_REST_TOKEN=<token>
-GROQ_API_KEY=<key>
+UPSTASH_VECTOR_REST_URL="https://legible-macaque-53862-us1-vector.upstash.io"
+UPSTASH_VECTOR_REST_TOKEN="ABkFMGxlZ2libGUtbWFjYXF1ZS01Mzg2Mi11czFhZG1pblpXRmhaR1ZpTW1VdE9XUmxZeTAwT1RSaExXSmtNR1V0TVRZNVlUSmhNemt3TVRZMg=="
+GROQ_API_KEY=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
 NODE_ENV=production
 ```
 
